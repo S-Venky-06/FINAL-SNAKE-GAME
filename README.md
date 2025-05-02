@@ -29,7 +29,9 @@ The game interface includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo-url/snake-game.git
-## For Screenshots 
+##  Screenshots 
+**Main Menu**
+
 ![Snake Game UI](web/Snake_game_pics/Screenshot_5.png)
 
 
