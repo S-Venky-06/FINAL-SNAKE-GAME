@@ -27,6 +27,7 @@ The game interface includes the following elements:
 ## Screenshots
 Here’s how the game interface looks:
 
+
 ![Snake Game UI](web/Snake_game_pics/Screenshot_5.png)
 
 ## New Game
