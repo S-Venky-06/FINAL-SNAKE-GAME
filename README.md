@@ -29,6 +29,13 @@ Here’s how the game interface looks:
 
 ![Snake Game UI](web/Snake_game_pics/Screenshot_1.png)
 
+## New Game
+![Snake Game UI](web/Snake_game_pics/Screenshot_2.png)
+
+
+
+
+
 
 
 
