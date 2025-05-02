@@ -32,6 +32,14 @@ Here’s how the game interface looks:
 ## New Game
 ![Snake Game UI](web/Snake_game_pics/Screenshot_2.png)
 
+## End Game
+![Snake Game UI](web/Snake_game_pics/Screenshot_3.png)
+
+## Score History
+![Snake Game UI](web/Snake_game_pics/Screenshot_4.png)
+
+
+
 
 
 
