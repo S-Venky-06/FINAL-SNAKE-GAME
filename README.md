@@ -24,6 +24,7 @@ The game interface includes:
 - A **modern web browser** (Chrome, Firefox, Edge, etc.).
 - A **local or hosted web server** (for JSP-based components).
 - **Apache Tomcat** (if running the JSP version).
+- **Note** Since Its JSP Github Pages Cannot Be used 
 
 ## 🚀 How to Run
 1. Clone the repository:
